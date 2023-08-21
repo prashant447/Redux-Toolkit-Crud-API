@@ -1,0 +1,11 @@
+.image{
+    background-image: url("./src/images/cool-background (3).png");
+    color: white;
+    height: 100vh;
+}
+.images{
+    background-image: url("./src/images/cool-background (4).png");
+    color: rgb(58, 57, 57);
+    background-size: cover;
+    height: 100vh;
+}

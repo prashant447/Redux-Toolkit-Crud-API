@@ -1,0 +1,22 @@
+.modal{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     position: fixed;
+     background-color: rgb(48, 48, 48);
+     opacity: 0.9;
+     z-index: 99;
+    }
+    
+    .popup{
+        
+    background-color: rgb(245, 245, 245);
+     padding: 15px;
+   
+     top: 50px;
+     border-radius: 10px;
+    
+     width: 350px;
+     height: 350px;
+}
